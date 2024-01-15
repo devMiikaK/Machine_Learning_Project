@@ -1,0 +1,5 @@
+docker exec -it timescaledb_container bash
+
+psql admin -d timescale
+
+\dt

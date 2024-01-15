@@ -1,0 +1,8 @@
+/data/**
+*/test/
+**/archive/
+**/images/
+**/filtered_projekti2/
+*/UI2.ipynb
+/docker/docker-compose.yml
+__pycache__
