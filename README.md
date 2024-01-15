@@ -1,0 +1,2 @@
+# Machine_Learning_Project
+koneoppimismenetelmien hyödyntäminen ostoskorien liikkumiseen ja käyttäytymiseen kaupassa.
